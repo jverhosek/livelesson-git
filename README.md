@@ -1,3 +1,4 @@
+#GIT Notes
 - 'git init': initialize current folder as a git repo
 - 'git clone <URL>': brings the git repo from <URL> to current folder 
 - 'git status' tells us what we need to know about our current repo and its state
